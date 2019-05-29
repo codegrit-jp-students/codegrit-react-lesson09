@@ -1,4 +1,4 @@
-# Reactとフォーム
+# Controlled Componentとフォーム
 
 ## HTMLフォームとReactでのフォームの違い
 
